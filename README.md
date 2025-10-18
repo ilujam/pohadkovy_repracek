@@ -1,6 +1,7 @@
 # Elektrický Rejnok – Dashboard (Vite + React + TypeScript + Tailwind)
 
 ## Rychlé spuštění
+otevři složku v příkazovém řádku
 ```bash
 npm install
 npm run dev
